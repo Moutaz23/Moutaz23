@@ -22,7 +22,7 @@ Ich bin Fachinformatiker für Anwendungsentwicklung und suche aktuell den Einsti
 - REST-APIs
 - Docker
 
-## Aktuelles Projekt
+## Projekte
 
 ### Prayer Times API
 
@@ -30,6 +30,12 @@ Arabische Webanwendung zur Anzeige täglicher Gebetszeiten über eine externe AP
 
 [Live-Demo](https://moutaz23.github.io/prayer-times-api/)  
 [Repository](https://github.com/Moutaz23/prayer-times-api)
+
+### Excel Data Viewer PHP
+
+PHP-Webanwendung zum Einlesen und Anzeigen von Excel-Daten in einer interaktiven Tabelle.
+
+[Repository](https://github.com/Moutaz23/excel-data-viewer-php)
 
 ## Kontakt
 
