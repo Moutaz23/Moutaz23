@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hallo, ich bin Moutaz Radwan 👋
 
-<!--
-**Moutaz23/Moutaz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Fachinformatiker für Anwendungsentwicklung und suche aktuell den Einstieg als Junior Softwareentwickler.
 
-Here are some ideas to get you started:
+## Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ausbildung zum Fachinformatiker für Anwendungsentwicklung erfolgreich abgeschlossen
+- Erfahrung in Webentwicklung und Prozessautomatisierung
+- Interesse an Backend-, Full-Stack- und API-Entwicklung
+- Standort: Oldenburg, Deutschland
+
+## Technologien
+
+- PHP
+- Laravel
+- JavaScript
+- Vue.js
+- SQL
+- HTML
+- CSS
+- Git
+- REST-APIs
+- Docker
+
+## Aktuelles Projekt
+
+### Prayer Times API
+
+Arabische Webanwendung zur Anzeige täglicher Gebetszeiten über eine externe API.
+
+[Live-Demo](https://moutaz23.github.io/prayer-times-api/)  
+[Repository](https://github.com/Moutaz23/prayer-times-api)
+
+## Kontakt
+
+[LinkedIn](https://www.linkedin.com/in/moutaz-radwan-dev)
