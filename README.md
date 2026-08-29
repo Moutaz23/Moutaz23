@@ -4,7 +4,7 @@
 
 Laravel-Anwendung zur Verwaltung von Kursen, Schülern und Kursbuchungen.
 
-**Technologien:** PHP · Laravel · MySQL · Blade · Bootstrap · AdminLTE
+**Technologien:** PHP · Laravel · MySQL · Blade · Bootstrap
 
 [Repository](https://github.com/Moutaz23/course-booking-manager)
 
