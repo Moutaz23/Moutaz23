@@ -15,3 +15,11 @@ PHP-Anwendung zum Einlesen und Anzeigen von Excel-Daten in einer interaktiven Ta
 **Technologien:** PHP · PhpSpreadsheet · JavaScript · Grid.js · Bootstrap
 
 [Repository](https://github.com/Moutaz23/excel-data-viewer-php)
+
+### FrischKorb
+
+Kleiner Online-Shop mit Produktsuche, Kategorie-Filtern, Sortierung und Warenkorb mit Mengensteuerung.
+
+**Technologien:** HTML · CSS · JavaScript · AJAX · JSON · Bootstrap
+
+[Repository](https://github.com/Moutaz23/frischkorb)
